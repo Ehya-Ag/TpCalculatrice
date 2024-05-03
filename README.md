@@ -1,8 +1,28 @@
+# Calculatrice
+
 Dans l'application nous avons une page principale index et deux fichiers externe un style.css pour le style et l'autre script.js pour le calcule
-Avec un tableau de bord laterale qui contient
-1. Addition
-2. Multiplication
-3. Soustraction
-4. Division
-   Chaqu'un d'eux nous rediriger, une fois cliqué dessus vers une page qui nous permetrra d'effectue des calcules de deux nombres saisi par l'utilisateur.
-   Dans Addition et multiplication nous avons l'option de calculer avec un troisieme nombre 
+Avec un tableau de bord laterale qui contient.
+
+## Table des matières
+
+1. [Addition](#addition)
+2. [Multiplication](#multiplication)
+3. [Soustraction](#soustraction)
+4. [Division](#division)
+
+## Addition
+
+Dans addition nous avons trois champs de saisi (nombre1, nombre2, nombre3) dont nombre3 est optionnel n'est pas obligatoire.
+
+## Multiplication
+
+Dans multiplication nous avons trois champs de saisi (nombre1, nombre2, nombre3) dont nombre3 est optionnel n'est pas obligatoire..
+
+## Soustraction
+
+Dans soustraction nous avons deux champs de saisi 
+## Division
+
+Dans division nous avons deux champs de saisi dont le nombre1 sera divisé par nombre2
+
+
